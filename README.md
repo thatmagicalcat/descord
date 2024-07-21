@@ -1,6 +1,8 @@
 # descord
 Descord is a minimal, easy to use discord api wrapper.
 
+# NOTE: This repository is moved to https://github.com/DescordLib/descord
+
 ## Example
 ```rust
 use descord::prelude::*;
